@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Figma, Square Sapce and Flutter
 - 💞️ I’m looking to collaborate on UX/UI Projects
 - 📫 Reach me through E-mail
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use to visualize the problem before getting a solution.
 
 <!---
